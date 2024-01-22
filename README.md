@@ -1,2 +1,2 @@
 # Request-Header-Parser-Microservice
-Request Header Parser Microservice
+The Request Header Parser Microservice project is designed to build a full-stack JavaScript application that analyzes and returns information from HTTP request headers. The application exposes an API endpoint, /api/whoami, which, upon receiving a request, provides a JSON response containing details such as the user's IP address (ipaddress), preferred language (language), and software information (software). This project focuses on extracting and presenting relevant details from request headers, demonstrating practical use cases for working with HTTP headers in a Node.js and Express environment.
